@@ -6,7 +6,7 @@ The most striking feature of this application is that it provides pay later sche
 librarian can check defaulter list and do the necessary action.**
 
 ## HOW TO SETUP
-**In order to run the application:**
+**In order to run the application:**  
 Step 1 - Make sure **MySQL** installed and configured on your system for database.  
 Step 2 - For localhost related to database operation **MySQL Notifier(1.1.8 or above)** is needed to install and configured.  
 Step 3 - Now since we are ready to start so double click on execetable jar file named as "Libraray_Management_System".  
