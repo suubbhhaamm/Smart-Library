@@ -8,10 +8,10 @@ librarian can check defaulter list and do the necessary action.**
 ## HOW TO SETUP
 **In order to run the application:**  
 Step 1 - Make sure **MySQL** installed and configured on your system for database.  
-Step 2 - For localhost related to database operation **MySQL Notifier(1.1.8 or above)** is needed to install and configured.  
-Step 3 - Now since we are ready to start so double click on execetable jar file named as "Libraray_Management_System".  
-Step 4 - Upon opening of application create an account by clicking on "signup".  
-Step 5 - Enter your id and password and press login now you are ready to go and explore the application and its features:)
+Step 2 - Install and configure **MySQL Notifier(1.1.8 or above)** for localhost.  
+Step 3 - Double click on **Execetable Jar File** in folder to start.  
+Step 4 - Upon opening the application create an account by clicking on **SignUp**.  
+Step 5 - Enter your credentials to login & now you are ready to explore the **Smart Library**:)
 
 **Note: Make sure that MySql Notifier server is active for the application to function flawlessly**
 
@@ -74,9 +74,10 @@ Step 5 - Enter your id and password and press login now you are ready to go and 
 ## CONCLUSION
 Smart Library allows the user to store the book ,student and library tasks related details. The implementation of the system may reduce data entry time and provide readily calculated report.  
 Basically the application allow to keep record of all the books issued and returned also help to keep the track of all the defaulter. Also issuing date and submission date of the student are recorded and henceforth help in faster and smoother calculation of fine.  
-Most importantly librarian faces the problem of paying later by student which very well managed by the application. Even it tremendously reduces the effort and work load of librarian helps to manage task completely and efficiently.
-
-
+Most importantly librarian faces the problem of paying later by student which very well managed by the application. Even it tremendously reduces the effort and work load of librarian helps to manage task completely and efficiently.  
+  
+  
+**To explore the code of the application go to the Source Code folder and inside that go to src.**
 
 
 
