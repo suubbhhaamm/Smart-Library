@@ -71,7 +71,7 @@ Step 5 - Enter your credentials to login & now you are ready to explore the **Sm
 ![image](https://user-images.githubusercontent.com/33429953/124013218-a9960080-d9ff-11eb-832d-3877d13994a4.png)
 
 
-## CONCLUSION
+## WHATS THE NEED
 Smart Library allows the user to store the book ,student and library tasks related details. The implementation of the system may reduce data entry time and provide readily calculated report.  
 Basically the application allow to keep record of all the books issued and returned also help to keep the track of all the defaulter. Also issuing date and submission date of the student are recorded and henceforth help in faster and smoother calculation of fine.  
 Most importantly librarian faces the problem of paying later by student which very well managed by the application. Even it tremendously reduces the effort and work load of librarian helps to manage task completely and efficiently.  
